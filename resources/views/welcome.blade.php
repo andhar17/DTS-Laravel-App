@@ -8,6 +8,10 @@
     </head>
 
     <body class="">
+    <div class="text">
+        <h1>DTS Laravel App with CodeStar<h1>
+        <h2>By Your Name</h2>
+     </div>
         <div class="wrapper">
             <div class="graphics">
                 <div class="tower">
